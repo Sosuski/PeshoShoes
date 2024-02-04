@@ -1,0 +1,108 @@
+<div className="columns_Hovered_Children">
+  <div>
+    <div className="titles_Hovered_Children">CURRENT PARTNERS</div>
+  </div>
+  <div className="brands_Bottom_Children">
+    <div className="nav_bar_Hovered_Elements">
+      <p>No current partners</p>
+    </div>
+  </div>
+</div>
+<div className="columns_Hovered_Children">
+  <div>
+    <div className="titles_Hovered_Children">ALL TIME PARTNERS</div>
+    <div className="brands_Bottom_Children">
+      <div className="nav_bar_Hovered_Elements">
+        <p>No partners yet</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- partners/inspirations are up and brands are down-->
+
+<div className="">
+  <div>
+    <div className="titles_Hovered_Children_Brands">FAVOURITE BRANDS</div>
+  </div>
+  <div className="brands_Bottom_Children">
+    <div className="columns_Hovered_Children">
+      <div>
+        <div className="nav_bar_Hovered_Elements">All brands</div>
+        <div className="nav_bar_Hovered_Elements">A-COLD-WALL*</div>
+        <div className="nav_bar_Hovered_Elements">A.P.C</div>
+        <div className="nav_bar_Hovered_Elements">adidas Originals</div>
+        <div className="nav_bar_Hovered_Elements">adidas Performance</div>
+        <div className="nav_bar_Hovered_Elements">Asics</div>
+        <div className="nav_bar_Hovered_Elements">Birkenstock</div>
+        <div className="nav_bar_Hovered_Elements">C.P. Company</div>
+        <div className="nav_bar_Hovered_Elements">Calvin Klein</div>
+        <div className="nav_bar_Hovered_Elements">Carhartt WIP</div>
+        <div className="nav_bar_Hovered_Elements">Casio</div>
+        <div className="nav_bar_Hovered_Elements">Columbia</div>
+        <div className="nav_bar_Hovered_Elements">Comme des Garçons PLAY</div>
+      </div>
+    </div>
+    <div className="columns_Hovered_Children">
+      <div className="columns_Elements_Hovered_Children">
+        <div>
+          <div className="nav_bar_Hovered_Elements">
+            Comme des Garçons SHIRT
+          </div>
+          <div className="nav_bar_Hovered_Elements">Converse</div>
+          <div className="nav_bar_Hovered_Elements">CREP Protect</div>
+          <div className="nav_bar_Hovered_Elements">Daily Paper</div>
+          <div className="nav_bar_Hovered_Elements">Dickies</div>
+          <div className="nav_bar_Hovered_Elements">Dr. Martens</div>
+          <div className="nav_bar_Hovered_Elements">Filling Pieces</div>
+          <div className="nav_bar_Hovered_Elements">Valentino</div>
+          <div className="nav_bar_Hovered_Elements">Fjällräven</div>
+          <div className="nav_bar_Hovered_Elements">HERON PRESTON</div>
+          <div className="nav_bar_Hovered_Elements">Herschel Supply Co.</div>
+          <div className="nav_bar_Hovered_Elements">HOKA</div>
+          <div className="nav_bar_Hovered_Elements">Jordan</div>
+        </div>
+      </div>
+    </div>
+    <div className="columns_Hovered_Children">
+      <div className="columns_Elements_Hovered_Children">
+        <div>
+          <div className="nav_bar_Hovered_Elements">KAHRU</div>
+          <div className="nav_bar_Hovered_Elements">Tom Tailor</div>
+          <div className="nav_bar_Hovered_Elements">Levi's</div>
+          <div className="nav_bar_Hovered_Elements">MARKET</div>
+          <div className="nav_bar_Hovered_Elements">McQ</div>
+          <div className="nav_bar_Hovered_Elements">Mizuno</div>
+          <div className="nav_bar_Hovered_Elements">New Balance</div>
+          <div className="nav_bar_Hovered_Elements">New Era</div>
+          <div className="nav_bar_Hovered_Elements">Nike</div>
+          <div className="nav_bar_Hovered_Elements">On</div>
+          <div className="nav_bar_Hovered_Elements">Patta</div>
+          <div className="nav_bar_Hovered_Elements">PLEASURES</div>
+          <div className="nav_bar_Hovered_Elements">Puma</div>
+        </div>
+      </div>
+    </div>
+    <div className="columns_Hovered_Children">
+      <div className="columns_Elements_Hovered_Children">
+        <div>
+          <div className="nav_bar_Hovered_Elements">RAF SIMONS</div>
+          <div className="nav_bar_Hovered_Elements">Reebok</div>
+          <div className="nav_bar_Hovered_Elements">Rick Owens DRKSHDW</div>
+          <div className="nav_bar_Hovered_Elements">Salomon Advanced</div>
+          <div className="nav_bar_Hovered_Elements">Stüssy</div>
+          <div className="nav_bar_Hovered_Elements">The North Face</div>
+          <div className="nav_bar_Hovered_Elements">Timberland</div>
+          <div className="nav_bar_Hovered_Elements">Tommy Hilfiger</div>
+          <div className="nav_bar_Hovered_Elements">UGG</div>
+          <div className="nav_bar_Hovered_Elements">Under Armour</div>
+          <div className="nav_bar_Hovered_Elements">Vans</div>
+          <div className="nav_bar_Hovered_Elements">Veja</div>
+          <div className="nav_bar_Hovered_Elements nav_bar_All_Brands">
+            ALL BRANDS
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

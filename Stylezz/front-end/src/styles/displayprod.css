@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.images {
+  width: 210px;
+  height: 250px;
+  display: inline;
+}
+
+.titles {
+  display: inline;
+  font-size: 30px;
+}
+
+.products {
+  width: 180px;
+  height: 330px;
+  border: 2px solid black;
+  text-align: center;
+  margin: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-wrap: break-word;
+  overflow: auto; /*or overflow: hidden*/
+}
+
+.flex-child-left {
+  flex: 1;
+  flex-grow: 1;
+  border: 2px solid yellow;
+}
+
+.Container {
+  flex: 2;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-grow: 5;
+  margin: 20px;
+}
+
+.flex-child-right {
+  flex: 3;
+  flex-grow: 1;
+  border: 2px solid yellow;
+}
+
+.resImgs {
+  height: 40px;
+  width: 40px;
+}
+
+.resTitles {
+  font-size: 20px;
+}
+
+.resProds {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid black;
+  z-index: 1;
+  opacity: 1;
+}
+
+.searchProducts {
+  position: absolute;
+  top: 100%;
+}
+
+
+.temp {
+  display: flex;
+}
+
+
+
+.resProds img {
+  flex-direction: row;
+}
+
+.form-control {
+  position: relative;
+}
+
+.bigDiv {
+  display: grid;
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.midPart {
+  display: flex;
+  margin: auto 0;
+}
+
+.main {
+  margin-top: 50px;
+}
